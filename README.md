@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielCarmel
-- 👀 I’m interested in devops and mlops
+- 👀 I’m interested in DevOps and MLOps
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How To Reach Me: danielcarmel6@gmail.com
 
